@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketTracingSystem", "TicketTracingSystem\TicketTracingSystem.csproj", "{155A6440-EDE7-45FD-B0FF-74DDC35D951D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{224BC6F5-1FF2-4929-8A52-5345D2894518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{41BA17B1-562B-4489-8DFF-7E1F571A37BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{5300413F-3029-4EAD-9CF4-70A0E75F0D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonUtility", "CommonUtility\CommonUtility.csproj", "{3F38F02A-A6E1-48B5-A85F-A2733BB7E812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155A6440-EDE7-45FD-B0FF-74DDC35D951D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155A6440-EDE7-45FD-B0FF-74DDC35D951D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155A6440-EDE7-45FD-B0FF-74DDC35D951D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155A6440-EDE7-45FD-B0FF-74DDC35D951D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224BC6F5-1FF2-4929-8A52-5345D2894518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224BC6F5-1FF2-4929-8A52-5345D2894518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224BC6F5-1FF2-4929-8A52-5345D2894518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224BC6F5-1FF2-4929-8A52-5345D2894518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BA17B1-562B-4489-8DFF-7E1F571A37BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BA17B1-562B-4489-8DFF-7E1F571A37BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BA17B1-562B-4489-8DFF-7E1F571A37BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BA17B1-562B-4489-8DFF-7E1F571A37BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5300413F-3029-4EAD-9CF4-70A0E75F0D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5300413F-3029-4EAD-9CF4-70A0E75F0D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5300413F-3029-4EAD-9CF4-70A0E75F0D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5300413F-3029-4EAD-9CF4-70A0E75F0D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F38F02A-A6E1-48B5-A85F-A2733BB7E812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F38F02A-A6E1-48B5-A85F-A2733BB7E812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F38F02A-A6E1-48B5-A85F-A2733BB7E812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F38F02A-A6E1-48B5-A85F-A2733BB7E812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
